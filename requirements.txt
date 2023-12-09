@@ -1,0 +1,6 @@
+openai
+cleantext
+fire
+openai
+tqdm
+python-dotenv
